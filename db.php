@@ -2,10 +2,10 @@
 class db
 {
 
-    private $serverNme = "localhost";
-    private $dbName = "finalproject";
-    private $dbUser = "root";
-    private $dbPassword = "";
+    private $serverNme = "enter you server Name ";
+    private $dbName = "enter you db Name";
+    private $dbUser = "enter you db User";
+    private $dbPassword = "enter you db Password";
 
 
     public function connect()
